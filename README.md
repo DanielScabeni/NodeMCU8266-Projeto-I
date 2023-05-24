@@ -1,9 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/DanielScabeni/NodeMCU8266-Projeto-I/master/title.svg" alt="title" />
-  Repositório do Projeto I com o NodeMCU8266
 </h1>
-
-<h1 align="center">Repositório do Projeto I com o NodeMCU8266</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
