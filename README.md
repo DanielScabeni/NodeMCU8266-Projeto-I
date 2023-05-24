@@ -8,12 +8,13 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/DanielScabeni/SistemasEmbarcados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielScabeni&repo=SistemasEmbarcados&theme=chartreuse-dark" alt="Readme Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielScabeni&repo=NodeMCU8266-Projeto-I&theme=chartreuse-dark" alt="Readme Card">
       </a>
     </td>
     <td width="50%">
   </a>
-    <p style="color: white;">Web Server com o NodeMCU8266 via requisição POST/GET, esse projeto foi desenvolvido com o professor Dr. Rafael babosa na matéria de Sistemas Embarcados do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER)</p>
+    <p style="color: white;">Web Server com o NodeMCU8266 via requisição POST/GET</p>
+    <p style="color: white;">Esse projeto foi desenvolvido com o professor Dr. Rafael babosa na matéria de Sistemas Embarcados do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER)</p>
     </td>
   </tr>
 </table>
